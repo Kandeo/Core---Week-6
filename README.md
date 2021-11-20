@@ -1,7 +1,7 @@
 # 
 # 
 # 
-# Predicting Football Results
+# Football Game Results Prediction Model
 
 #### Data Science Project, November 2021
 
@@ -23,6 +23,7 @@ What to train given:
 - Rank of home team
 - Rank of away team
 - Tournament type
+
 Model 1: Predict how many goals the home team scores.
 
 Model 2: Predict how many goals the away team scores.
